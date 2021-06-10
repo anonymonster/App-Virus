@@ -4,6 +4,8 @@ import time
 os.system("clear")
 v = "\033[1;91m"
 
+
+
 def banner () :
     print (' ')
     print ('''         \033[1;91m                         __    _''')
@@ -52,7 +54,7 @@ def banner1 () :
 banner1 ()
 print (''' \033[1;91m                             #King Of Snapchat
                         Add me On snapchat @x.monster3
-             "Red Zone" Server Link ~\033[1;92m https://discord.gg/AFrq7JQ27N\033[1;91m
+             "Red Zone" Server Link ~\033[1;92m https://discord.gg/6tck5952Jm\033[1;91m
                         join Red Zone Server For More''')
 print ("")
 print ("")
